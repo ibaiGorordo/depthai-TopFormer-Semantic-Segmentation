@@ -1,5 +1,5 @@
-# depthai-TopFormer-Semantic-Segmentation
- Python scripts performing on devive semantic segmentation using the TopFormer model in depthai.
+# depthai TopFormer Semantic Segmentation
+ Python scripts performing on devive semantic segmentation (ADE20K 150 classes)using the TopFormer model in depthai.
 
 
 ![!TopFormer Semantic Segmentation](https://github.com/ibaiGorordo/depthai-TopFormer-Semantic-Segmentation/blob/main/doc/img/output.png)
